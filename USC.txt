@@ -1,0 +1,10 @@
+Student_Name	Gender	Brithday	Scholarship
+Jackie Chan	M	1995-3-2	N
+Mulan Hua	F	2000-1-2	Y
+Angelina Q	F	1989-9-16	Y
+Howard McAfee	M	1995-6-5	Y
+
+
+
+
+

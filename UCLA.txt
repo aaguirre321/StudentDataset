@@ -1,0 +1,10 @@
+Student_Name	Gender	Brithday	First_Gen_College_student
+Mary Q. Smith	F	1995-3-15	Y
+Harry Potter	M	1993-1-2	N
+Clark Kent	M	1994-10-10	N
+Mike O'Neal	M	1995-11-5	Y
+
+
+
+
+
